@@ -1,0 +1,18 @@
+/* home */
+#home{
+    height: 420px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+/* about */
+#pic img{
+    width:280px ;
+    height: 355px;
+}
+#intro h2{
+    font-size: 1.5rem; 
+}
+#send{
+width: 25%;
+}

@@ -1,0 +1,38 @@
+/* Navbar */
+.navbar ul{
+    flex-wrap:wrap ;
+    justify-content: center;
+    display: flex;
+    }
+    .navbar ul li {
+        margin: 10px;
+        padding: 2px;
+    }
+    /* #home{
+        height: 800px;
+    } */
+    /* About */
+    #pic{
+    flex-direction: column;
+    align-items: center;
+    }
+    #pic img{
+    width: 240px;
+    height: 330px;
+    }
+    #intro h2{
+    text-align: center;
+    padding: 10px;
+    }
+    
+    /* contact */
+    
+    .input{
+      width: 75%;}
+    
+    #msg{
+    width: 75%;
+    }
+    #send{
+        width:12% ;
+    }

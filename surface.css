@@ -1,0 +1,8 @@
+#pic{
+    display: flex;
+}
+#pic img{
+    width: 280px;
+    height: 375px;
+    border-radius: 35px;
+}
